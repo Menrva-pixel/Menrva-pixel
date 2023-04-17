@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Barkah Herdyanto Sejati</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
+<p>Hello, I'm a junior web developer trying to improve my skills in the web developer world. I'm interested in becoming a front-end and also a back-end web developer. My favorite programming languages ​​are Javascript, PHP and Python. I'm not an expert yet but keep trying to develop my skills.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menrva-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="menrva-pixel" /> </p>
 
