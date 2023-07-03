@@ -15,8 +15,8 @@
 <div align="center">
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Bherdyanto/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bherdyanto26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barkah-herdyanto-sejati-636840258/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/menrva-pixel) 
- 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bherdyanto26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barkah-herdyanto-sejati-636840258/) 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=menrva-pixel&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=menrva-pixel&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -52,8 +52,14 @@
 ### ✍️ Random Dev Quote
   <a href="">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</a>
   
+
+### i'm a gamer too!, lets play! :
+| Platform | IGN |
+-----------|-------
+![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) |[Hefestus](https://steamcommunity.com/id/unknown269/) |
+![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | [Hefestus12](https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=J1TlnDTqJs-2lBU-CmstlsICWVT0KiTDO77w4nH4D6N6qOuUaWAgbCwl2A-D9Ukz3-57Bq-8cJtU6l6bdeTEeR7WPC01&wa=wsignin1.0) 
+![Origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) | MS_Hefestus
+![BattleNet](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF) | Shiftace
+
 </div>
-
-
-
 
