@@ -53,14 +53,6 @@
   <a href="">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</a>
   
 
-### i'm a gamer too!, lets play! :
-| Platform | IGN |
------------|-------
-![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) |[Hefestus](https://steamcommunity.com/id/unknown269/) |
-![xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) | [Hefestus12](https://account.xbox.com/en-us/Profile?xr=mebarnav&rtc=1&csrf=J1TlnDTqJs-2lBU-CmstlsICWVT0KiTDO77w4nH4D6N6qOuUaWAgbCwl2A-D9Ukz3-57Bq-8cJtU6l6bdeTEeR7WPC01&wa=wsignin1.0) 
-![Origin](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white) | MS_Hefestus
-![BattleNet](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF) | Shiftace
-![EGS](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) | [H3FESTUS](https://launcher.store.epicgames.com/u/da381d69b71542cf9097c858cf185069) |
 
 </div>
 
