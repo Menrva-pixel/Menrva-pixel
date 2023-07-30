@@ -4,7 +4,7 @@
   
  </div>
  
-![Header](https://github.com/Menrva-pixel/Menrva-pixel/blob/main/github-header-image.png)
+![Header](https://github.com/Menrva-pixel/Menrva-pixel/blob/main/banner.png)
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 <p>Hello, I am a junior web developer aiming to enhance my skills in the world of web development. I am interested in becoming both a front-end and back-end web developer. My favorite programming languages are Dart, JavaScript, PHP, and Python. Although I am not an expert yet, I am continuously striving to improve my skills.</p>
 
